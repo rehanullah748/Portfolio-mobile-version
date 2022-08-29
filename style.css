@@ -49,6 +49,7 @@ a {
 
 .buttons {
   padding-left: 32px;
+  float: right;
 }
 
 .see-project {
